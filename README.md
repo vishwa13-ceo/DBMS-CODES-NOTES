@@ -1,4 +1,5 @@
 This repository contains PL/SQL code examples, along with additional notes and explanations for the DBMS subject.
+Run these codes in Oracle SQLdeveloper.
 
 You can find the learning notes for PL/SQL in the following Notion link:
 Request will be accepted Soon!.
